@@ -7,6 +7,7 @@ We need to move all the chips to the same position. In one step, we can change t
 position[i] + 2 or position[i] - 2 with cost = 0.
 position[i] + 1 or position[i] - 1 with cost = 1.
 Return the minimum cost needed to move all the chips to the same position.
+
 ![image](https://user-images.githubusercontent.com/70264806/120930649-dd854b00-c70b-11eb-9776-9b5539df4fe4.png)
 
 Input: position = [1,2,3]
